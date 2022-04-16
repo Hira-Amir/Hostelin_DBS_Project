@@ -1,6 +1,6 @@
 # Hostelin_DBS_Project
 A Hostel Entry Management System Using SQL and PHPMyAdmin DataBase.
-## Devalopers
+## Developers
 <div>
 <img src="https://github.com/Hira-Amir/Hostelin_DBS_Project/blob/main/HiraAmir.png"  width="250" height="250" />
 <img src="https://github.com/Hira-Amir/Hostelin_DBS_Project/blob/main/AmberArain.png"  width="250" height="250" />  
